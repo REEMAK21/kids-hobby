@@ -1,4 +1,4 @@
-# kids-hobby66
+# IT326 | kids hobby prediction dataset
 
 Student Name : Hind Alhejilan | StudentID : 443200971                               
 Student Name : Dana Aldawood | StudentID : 443200510                       
