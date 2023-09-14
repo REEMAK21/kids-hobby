@@ -1,8 +1,8 @@
 # kids-hobby
 
-Student Name : Hind Alhejilan | StudentID : 443200971
-Student Name : Dana Aldawood | StudentID : 443200510
-Student Name : Wiam Baalahtar | StudentID : 443200416
+Student Name : Hind Alhejilan | StudentID : 443200971                               
+Student Name : Dana Aldawood | StudentID : 443200510                       
+Student Name : Wiam Baalahtar | StudentID : 443200416                     
 Student Name : Reema Alkhaldi | StudentID : 443201003
 -------------------------------------------------------------------
 
